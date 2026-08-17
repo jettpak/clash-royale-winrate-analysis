@@ -1,0 +1,9 @@
+=== Winrate by Deck Type (deck_key_card) ===
+No non-empty deck_key_card values found in battles.
+Tip: your insert script may not be populating deck_key_card.
+
+=== Winrate by Time of Day ===
+No time_of_day values found in battles.
+
+=== Top 10 Most-Used Cards Across Player Decks (JOIN: battle_cards → cards) ===
+No battle_cards data found to join.
